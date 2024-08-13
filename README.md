@@ -123,10 +123,4 @@ This project is a Python-based reverse shell script. It connects a compromised m
 ## Disclaimer
 
 This script is intended for educational purposes only. It demonstrates how reverse shells work and should only be used in a controlled environment with explicit authorization. Misuse of this script can result in legal action.
-
-## License
-
-This project is open-source and available under the MIT License.
-```
-
 This README provides a comprehensive overview of the project, including setup, usage instructions, and important security considerations. Always ensure that such scripts are used legally and ethically.
